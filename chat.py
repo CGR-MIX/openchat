@@ -5,8 +5,8 @@ from revChatGPT.V2 import Chatbot
 port=8006
 app = FastAPI()
 chatbot = Chatbot(
-    email="",
-    password="",
+    email="1246731178v@gmail.com",
+    password="040527-lxj",
     # paid=True,
     # proxy="http://127.0.0.1:7890",
 )
